@@ -1,0 +1,12 @@
+
+
+.app{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap:10px;
+    list-style: none;
+}
+.item{
+    background-color: rgb(209, 219, 219);
+}
